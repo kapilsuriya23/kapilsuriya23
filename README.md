@@ -5,9 +5,9 @@
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Skills
 - Java (DSA & problem solving)
-- Improving SQL, HTML, CSS, JavaScript
+- SQL, HTML, CSS, JavaScript, Dart
 - Building real-world projects & open-source contributions
 
 ---
@@ -33,13 +33,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsuriya23&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 💡 Areas of Interest
-- Front-End Development  
-- Problem Solving  
-- Learning New Frameworks  
 
 ---
 
