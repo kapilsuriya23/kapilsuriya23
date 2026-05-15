@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kapil Suriya!
 
-🚀 Computer Science Student | Front-End Developer  
+🚀 Computer Science Student | Software Developer  
 🎓 St. Joseph's College of Engineering  
 
 ---
